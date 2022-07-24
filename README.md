@@ -2,7 +2,7 @@
 
 This is a calculator, designed for use in NodeJS in the command line.
 
-#Usage:
+# Usage:
 
 For example, to add 1 and 2, you do
 ```
